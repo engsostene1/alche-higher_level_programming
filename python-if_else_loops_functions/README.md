@@ -6,4 +6,4 @@ This directory contains tasks for learning Python control flow:
 - functions
 - handling random numbers
 
-Each script follows the ALX project requirements and uses Python 3.
+
